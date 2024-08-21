@@ -1,0 +1,2 @@
+u = runif(5000)
+hist(u)
